@@ -1,0 +1,9 @@
+README.md
+setup.py
+job/__init__.py
+job/aggr_job.py
+period_aggr.egg-info/PKG-INFO
+period_aggr.egg-info/SOURCES.txt
+period_aggr.egg-info/dependency_links.txt
+period_aggr.egg-info/not-zip-safe
+period_aggr.egg-info/top_level.txt
